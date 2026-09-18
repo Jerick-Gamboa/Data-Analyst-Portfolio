@@ -1,6 +1,6 @@
 # Hi, I'm Jerick 👋
 
-I'm a fresh Bachelor of Science in Information Technology graduate interested in Data Analytics, Data Operations, and Business Operations.
+I'm a fresh Bachelor of Science in Information Technology graduate interested in Data Analytics and Data Management.
 
 ## 🛠️ Skills
 
