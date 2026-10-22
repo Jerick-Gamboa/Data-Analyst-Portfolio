@@ -36,3 +36,7 @@ The dashboard includes a year slicer that allows users to filter the visualizati
 ### Objective
 
 The objective of this dashboard is to transform raw sales data into an organized and interactive visual report that supports business performance monitoring and data-driven decision-making.
+
+## Time Performance Overview
+
+![Superstore Sales Dashboard](images/TIME PERFORMANCE.png)
