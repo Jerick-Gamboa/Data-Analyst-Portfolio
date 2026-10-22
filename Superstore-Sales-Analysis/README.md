@@ -37,11 +37,9 @@ The dashboard includes a year slicer that allows users to filter the visualizati
 
 The objective of this dashboard is to transform raw sales data into an organized and interactive visual report that supports business performance monitoring and data-driven decision-making.
 
-## Time Performance Overview
+## Time Performance Preview
 
 ![Superstore Sales Dashboard](images/TIMEPERFORMANCE.png)
-
-## ⏱️ Superstore Time Performance Dashboard
 
 The **Superstore Time Performance Dashboard** analyzes sales, profit, and product quantity trends over time using Microsoft Excel. It helps identify yearly performance changes and monthly patterns to understand how business performance evolves throughout the year.
 
