@@ -39,4 +39,4 @@ The objective of this dashboard is to transform raw sales data into an organized
 
 ## Time Performance Overview
 
-![Superstore Sales Dashboard](images/TIME-PERFORMANCE.png)
+![Superstore Sales Dashboard](images/TIMEPERFORMANCE.png)
