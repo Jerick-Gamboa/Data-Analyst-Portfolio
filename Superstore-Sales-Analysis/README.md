@@ -101,3 +101,4 @@ To evaluate product and category performance, identify top-selling and profitabl
 ## Location Performance Overview
 
 ![Superstore Sales Dashboard](images/LOCATIONPERFORMANCE.png)
+
