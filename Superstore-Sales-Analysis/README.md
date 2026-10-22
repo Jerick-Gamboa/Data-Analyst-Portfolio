@@ -72,4 +72,4 @@ To transform sales data into meaningful time-based visualizations that help iden
 
 ## Product Performance Overview
 
-![Superstore Sales Dashboard](images/DASHBOARD.png)
+![Superstore Sales Dashboard](images/PRODUCTPERFORMANCE.png)
