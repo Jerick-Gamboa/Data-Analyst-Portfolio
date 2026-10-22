@@ -39,7 +39,7 @@ The objective of this dashboard is to transform raw sales data into an organized
 
 ## Time Performance Preview
 
-![Superstore Sales Dashboard](images/TIMEPERFORMANCE.png)
+![Superstore Time Performance](images/TIMEPERFORMANCE.png)
 
 The **Superstore Time Performance Dashboard** analyzes sales, profit, and product quantity trends over time using Microsoft Excel. It helps identify yearly performance changes and monthly patterns to understand how business performance evolves throughout the year.
 
@@ -70,7 +70,7 @@ To transform sales data into meaningful time-based visualizations that help iden
 
 ## Product Performance Overview
 
-![Superstore Sales Dashboard](images/PRODUCTPERFORMANCE.png)
+![Superstore Product Performance](images/PRODUCTPERFORMANCE.png)
 
 The **Superstore Product Performance Dashboard** analyzes sales, profit, and profitability across product categories and sub-categories using Microsoft Excel. It helps identify top-performing products, compare category performance, and highlight products or categories that may need further analysis.
 
@@ -100,7 +100,7 @@ To evaluate product and category performance, identify top-selling and profitabl
 
 ## Location Performance Overview
 
-![Superstore Sales Dashboard](images/LOCATIONPERFORMANCE.png)
+![Superstore Location Performance](images/LOCATIONPERFORMANCE.png)
 
 The **Superstore Location Performance Dashboard** analyzes sales, profit, and order distribution across different regions and states using Microsoft Excel. It helps compare regional performance and identify geographic areas that contribute significantly to the business's sales and profitability.
 
@@ -128,4 +128,8 @@ The **Superstore Location Performance Dashboard** analyzes sales, profit, and or
 ### 🎯 Objective
 
 To compare geographic sales and profitability, identify high-performing regions and states, understand order distribution, and support data-driven decisions about regional business performance and resource allocation.
+
+## Insights & Recommendations Overview
+
+![Superstore Insight Recommendation](images/INISGHTS&RECOMMENDATION.png)
 
