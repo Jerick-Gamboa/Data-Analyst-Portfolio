@@ -71,3 +71,28 @@ To transform sales data into meaningful time-based visualizations that help iden
 ## Product Performance Overview
 
 ![Superstore Sales Dashboard](images/PRODUCTPERFORMANCE.png)
+The **Superstore Product Performance Dashboard** analyzes sales, profit, and profitability across product categories and sub-categories using Microsoft Excel. It helps identify top-performing products, compare category performance, and highlight products or categories that may need further analysis.
+
+### 📊 Key Visualizations
+
+- **Sales vs. Profit by Category** – Compares total sales and profit across Furniture, Office Supplies, and Technology to evaluate category performance.
+- **Sales & Profit by Sub-Category** – Examines sales and profit across product sub-categories to identify strong performers and areas of concern.
+- **Profit Margin by Category** – Compares profit margins across categories to assess profitability relative to sales.
+- **Top 10 Products by Sales** – Highlights the products generating the highest sales.
+- **Top 10 Products by Profit** – Identifies the products contributing the most to overall profit.
+
+### 🎛️ Interactive Features
+
+- **Category Slicers** – Filter the dashboard by Furniture, Office Supplies, or Technology.
+- **Navigation Menu** – Navigate between the Overview, Time Performance, Product Performance, Location Performance, and Insights & Recommendations sections.
+
+### 🛠️ Tools Used
+
+- Microsoft Excel
+- PivotTables and PivotCharts
+- Slicers and interactive dashboard navigation
+- Excel data analysis and visualization techniques
+
+### 🎯 Objective
+
+To evaluate product and category performance, identify top-selling and profitable products, compare profit margins, and support data-driven decisions about product strategy and profitability improvement.
