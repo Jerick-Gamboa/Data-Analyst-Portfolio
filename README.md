@@ -6,8 +6,8 @@ I'm a fresh Bachelor of Science in Information Technology graduate interested in
 
 * Microsoft Excel
 * SQL
-* Power BI
-* DAX
+* Power BI (Beginner)
+* DAX (Beginner)
 * Power Query
 * Data Cleaning
 * Data Analysis
@@ -18,15 +18,7 @@ I'm a fresh Bachelor of Science in Information Technology graduate interested in
 
 ### Superstore Sales Analysis
 
-Analyzed retail sales and profit data using Excel, SQL, and Power BI.
-
-### SQL Business Analysis
-
-Used SQL to analyze sales, customers, products, and business performance.
-
-### Data Cleaning Project
-
-Cleaned and validated raw datasets using Excel and Power Query.
+Analyzed retail sales and profit data using Excel.
 
 ## 🎯 Career Interests
 
