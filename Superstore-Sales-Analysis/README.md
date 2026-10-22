@@ -71,6 +71,7 @@ To transform sales data into meaningful time-based visualizations that help iden
 ## Product Performance Overview
 
 ![Superstore Sales Dashboard](images/PRODUCTPERFORMANCE.png)
+
 The **Superstore Product Performance Dashboard** analyzes sales, profit, and profitability across product categories and sub-categories using Microsoft Excel. It helps identify top-performing products, compare category performance, and highlight products or categories that may need further analysis.
 
 ### 📊 Key Visualizations
@@ -96,3 +97,7 @@ The **Superstore Product Performance Dashboard** analyzes sales, profit, and pro
 ### 🎯 Objective
 
 To evaluate product and category performance, identify top-selling and profitable products, compare profit margins, and support data-driven decisions about product strategy and profitability improvement.
+
+## Location Performance Overview
+
+![Superstore Sales Dashboard](images/LOCATIONPERFORMANCE.png)
