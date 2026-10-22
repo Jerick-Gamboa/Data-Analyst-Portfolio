@@ -69,3 +69,7 @@ The **Superstore Time Performance Dashboard** analyzes sales, profit, and produc
 ### 🎯 Objective
 
 To transform sales data into meaningful time-based visualizations that help identify trends, compare yearly performance, recognize seasonal patterns, and support data-driven business decisions.
+
+## Product Performance Overview
+
+![Superstore Sales Dashboard](images/DASHBOARD.png)
