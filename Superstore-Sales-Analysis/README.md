@@ -1,3 +1,3 @@
 ## Dashboard Preview
 
-![Superstore Sales Dashboard](images/sales-dashboard.png)
+![Superstore Sales Dashboard](images/dashboard.png)
