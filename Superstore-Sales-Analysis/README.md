@@ -131,5 +131,5 @@ To compare geographic sales and profitability, identify high-performing regions 
 
 ## Insights & Recommendations Overview
 
-![Superstore Insight Recommendation](images/INSIGHTS&RECOMMENDATION.png)
+![Superstore Insight Recommendation](images/INSIGHTS&RECOMMENDATIONS.png)
 
