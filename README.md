@@ -20,6 +20,10 @@ I'm a fresh Bachelor of Science in Information Technology graduate interested in
 
 Analyzed retail sales and profit data using Excel.
 
+### Nashville-Housing-Data Cleaning
+
+Cleaned data using MySQL
+
 ## 🎯 Career Interests
 
 I'm interested in entry-level opportunities in:
