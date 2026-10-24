@@ -30,6 +30,8 @@ This project demonstrates my foundational SQL skills and my ability to organize 
 
 Created a separate table named `cleandata_nashville` using the original `nashville_housing` table as the source.
 
+![Superstore Sales Dashboard](images/Data_Backup.png)
+
 **SQL techniques:** `CREATE TABLE LIKE`, `INSERT INTO ... SELECT`
 
 ### 2. Data Exploration
