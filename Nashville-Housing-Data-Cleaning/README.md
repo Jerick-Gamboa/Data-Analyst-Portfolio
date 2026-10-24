@@ -11,7 +11,7 @@ This project demonstrates my foundational SQL skills and my ability to organize 
 - **Database:** MySQL
 - **SQL Environment:** MySQL Workbench
 - **Dataset:** Nashville Housing
-- **Version Control:** GitHub
+
 
 ## Objectives
 
